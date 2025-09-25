@@ -14,7 +14,7 @@ Pneumonia is a lung infection that can be life-threatening if not diagnosed earl
 - **Normal**
 - **Pneumonia**
 
-The model is trained on publicly available dataset.[Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+The model is trained on publicly available dataset ([Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)).
 
 ---
 
