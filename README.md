@@ -4,7 +4,7 @@
 - **Accuracy**
   - Achieved Validation Accuracy = 97.43%
   - F1-Score = 0.9824 
-  - [Download Checkpoint](https://1024terabox.com/s/1cH2LXa_22BvCWUMaVQJiWw)
+  - [Download Checkpoint](https://1024terabox.com/s/1PlRygrpVPPbeZnarK4yrTQ)
 
 ---
 
