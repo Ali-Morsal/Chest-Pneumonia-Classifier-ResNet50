@@ -2,11 +2,8 @@
 
 ## ✨ Features
 - **Accuracy**
-  - Dice: 0.9823
-  - IoU: 0.9658
-  - Precision: 0.9835
-  - Recall: 0.9833
-  - Accuracy: 0.9922   
+  - Achieved Validation Accuracy = 97.43%
+  - F1-Score = 0.9824 
   - [Download Checkpoint](https://1024terabox.com/s/1cH2LXa_22BvCWUMaVQJiWw)
   
 ## 📌 Project Overview
